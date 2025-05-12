@@ -1,1 +1,1 @@
-print("let's go outside and enjot the sun")
+print("let's go outside and enjoy the sun")
